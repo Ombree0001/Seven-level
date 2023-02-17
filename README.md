@@ -2,7 +2,7 @@
 
 [Voir la vidéo](https://youtu.be/f2SXpMzkUFo)
 -
-[Clique ici pour rejoindre le Discord](https://discord.gg/5dev)
+[Clique ici pour rejoindre le Discord](https://discord.gg/fivemfrance)
 -
 <p><strong>By Enos & Nehco</strong></p>
 
